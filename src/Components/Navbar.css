@@ -1,0 +1,19 @@
+
+
+.navbar{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   padding-top: 1.4rem;
+   
+    
+}
+
+
+.icon{
+  
+    font-size: 2rem;
+     margin-right: 2rem;
+    color: #f7d514;
+}
+
